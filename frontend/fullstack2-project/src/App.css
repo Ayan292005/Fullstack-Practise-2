@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cont{
+  width: 90%;
+  margin: 0 auto;
+}
+.navbar-top{
+  background-color:#0d2d3e ;
+  color: white;
+
+}
+
+.navbar-bottom{
+  display: flex;
+  justify-content: space-between;
+}
